@@ -2,9 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensrc.org/licenses/Apache-2.0)
 
-How to use this template:
-  <img src="https://github.com/Leave-it-blank/Express-Starter-with-TS/blob/master/documentation/images/howtouse.jpg"/>
-
 Includes API index utilities:
 
 - [Prisma](https://www.npmjs.com/package/prisma)
@@ -31,7 +28,6 @@ Development utilities:
 - [Typescript](https://www.npmjs.com/package/typescript)
   - For Tightly typing the codebase.
 
-  
 ## Work in progress
 
 - [jest](https://www.npmjs.com/package/jest)
